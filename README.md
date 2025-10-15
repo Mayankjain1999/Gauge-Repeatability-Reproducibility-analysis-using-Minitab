@@ -1,0 +1,1 @@
+# Gauge-R-R-GRR-analysis-using-Minitab
