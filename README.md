@@ -33,7 +33,14 @@ Provide recommendations for improvement if variation is excessive.
 [Open GRR DATA - Sheet1.csv](GRR%20DATA%20-%20Sheet1.csv)
 # For analysing Using Minitab
 
-<img src="https://github.com/user-attachments/assets/48d7674f-082c-41ef-8b6c-1ed7facb4b5e" alt="IMG_20220708_161031" width="200">
+<img width="301" height="186" alt="image" src="https://github.com/user-attachments/assets/49eab162-ab01-43e4-97e7-6f36c9e52de5" />
+<img width="398" height="245" alt="image" src="https://github.com/user-attachments/assets/379f76d7-3090-4242-a4a0-dc23f813654d" />
+<img width="333" height="278" alt="image" src="https://github.com/user-attachments/assets/648109f7-21ff-4990-a516-45674d54931b" />
+
+Number of Distinct Categories = 16
+
+<img width="493" height="278" alt="image" src="https://github.com/user-attachments/assets/3eace7b2-7baa-432e-926a-8d2034d2adf1" />
+<img width="210" height="56" alt="image" src="https://github.com/user-attachments/assets/ef5c7e81-ec16-4fd4-845f-9253076b987e" />
 
 
 
