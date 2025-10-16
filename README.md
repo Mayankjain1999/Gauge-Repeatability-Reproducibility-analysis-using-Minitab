@@ -19,13 +19,14 @@ Provide recommendations for improvement if variation is excessive.
 | Item                 | Description                          |
 | -------------------- | ------------------------------------ |
 | Product              | Machined Shaft                       |
-| Critical Parameter   | Diameter (mm)                        |
+| Critical Parameter   | 20 Diameter (mm)              
+| Tolerace             | 0.01mm                               |
 | Measuring Instrument | Dial Micrometer                      |
 | Resolution           | 0.01 mm                              |
 | Number of Operators  | 3 (Operator A, B, C)                 |
 | Number of Parts      | 10 randomly selected shafts          |
 | Number of Trials     | 2 measurements per part per operator |
-| Software Used        | Minitab 21                           |
+| Software Used        | Minitab                              |
 | Study Type           | Crossed GRR                          |
         
 
