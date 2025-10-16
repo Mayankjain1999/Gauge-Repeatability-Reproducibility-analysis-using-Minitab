@@ -44,6 +44,27 @@ Number of Distinct Categories = 16
 
 <img width="1168" height="876" alt="image" src="https://github.com/user-attachments/assets/99dd19b0-dfa4-4c4c-8003-6b8ac889edda" />
 
+BASED ON RESULT
+
+| **% Gage R&R** | **Interpretation**               | **Decision**                                                                              |
+| -------------- | -------------------------------- | ----------------------------------------------------------------------------------------- |
+| **< 10%**      | **Excellent / Acceptable**       | Measurement system is capable and acceptable for use.                                     |
+| **10% – 30%**  | **Marginal / May be acceptable** | Acceptable for preliminary studies or rough measurements; should be improved if possible. |
+| **> 30%**      | **Unacceptable**                 | Measurement system variation too high; needs improvement or replacement.                  |
+
+Total Gage R&R = 0.69% → Excellent
+Fully acceptable and can be trusted for production & quality control.
+
+| **NDC Value** | **Interpretation**                                          |
+| ------------- | ----------------------------------------------------------- |
+| **NDC ≥ 5**   | Acceptable — system can distinguish part-to-part variation. |
+| **NDC ≥ 10**  | Excellent — system is very capable for process control.     |
+| **NDC < 5**   | Poor — gage cannot separate part differences reliably.      |
+
+Total Gage R&R = 0.69% → Excellent
+Fully acceptable and can be trusted for production & quality control.
+
+
 
 
 
