@@ -31,5 +31,9 @@ Provide recommendations for improvement if variation is excessive.
 
 # DATA
 
+# For analysing Using Minitab
+
+![IMG_20220708_161031](https://github.com/user-attachments/assets/48d7674f-082c-41ef-8b6c-1ed7facb4b5e)
+
 
 
