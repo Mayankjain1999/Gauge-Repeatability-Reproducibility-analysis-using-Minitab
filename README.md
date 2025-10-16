@@ -15,6 +15,7 @@ Identify if the current measurement system is acceptable for process control.
 
 Provide recommendations for improvement if variation is excessive.
 # Equipment and Setup
+
 | Item                 | Description                          |
 | -------------------- | ------------------------------------ |
 | Product              | Machined Shaft                       |
@@ -24,8 +25,10 @@ Provide recommendations for improvement if variation is excessive.
 | Number of Operators  | 3 (Operator A, B, C)                 |
 | Number of Parts      | 10 randomly selected shafts          |
 | Number of Trials     | 2 measurements per part per operator |
-| Software Used        | Minitab                            |
+| Software Used        | Minitab 21                           |
 | Study Type           | Crossed GRR                          |
+        
+
 # DATA
 
 
